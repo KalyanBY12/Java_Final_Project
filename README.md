@@ -2,9 +2,9 @@
 **_POSTMAN LINK_** -> [https://www.getpostman.com/collections/f8c3247ed61ae867cf35](https://www.getpostman.com/collections/f8c3247ed61ae867cf35) 
 
 
-<b> Services and Their Port Nos: </b>    
-    Eureka Server : 8761
+<b> Services and Their Port Nos: </b>  
 
+    Eureka Server : 8761
     Token Sevice : 8080
     Admin Service : 8081
     Consumer Service : 8082
