@@ -2,23 +2,26 @@
 **_POSTMAN LINK_** -> [https://www.getpostman.com/collections/f8c3247ed61ae867cf35](https://www.getpostman.com/collections/f8c3247ed61ae867cf35) 
 
 
-<b> Services and Their Port Nos: </b>    Eureka Server : 8761
+<b> Services and Their Port Nos: </b>    
+    Eureka Server : 8761
+
     Token Sevice : 8080
     Admin Service : 8081
     Consumer Service : 8082
     ShopMgmt Service : 8083
     Shop Service : 8084
+
 ******************************************************************
 
 ADMIN SERVICES:
 
     1.1)SIGNUP:
     Method: POST
-    Endpoint: http://localhost:8081/user/signup    Payload:
+    Endpoint: http://localhost:8081/user/signup    
 
     1.2) LOGIN:
     Method: POST
-    Endpoint: http://localhost:8081/user/login    Payload:
+    Endpoint: http://localhost:8081/user/login    
   
     1.3) GET-USERS:
     Method: GET
